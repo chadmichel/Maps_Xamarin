@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="iOS/Maps_Xamarin.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Maps_Xamarin/Maps_Xamarin.cs">
+    <Files>
+      <File FileName="Maps_Xamarin/Maps_Xamarin.cs" Line="95" Column="95" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="iOS/PlatformService/LocationSearch.cs" Line="1" Column="1" />
+      <File FileName="Maps_Xamarin/PlatformService/ILocationService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Maps_Xamarin.Droid" expanded="True" />
+          <Node name="Maps_Xamarin.iOS" expanded="True">
+            <Node name="PlatformService" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>_model</Value>
+          <Value>question</Value>
+          <Value>list</Value>
+          <Value>days</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
